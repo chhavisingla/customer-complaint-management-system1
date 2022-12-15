@@ -1,0 +1,40 @@
+{
+     "issueId": 2,
+    "title": "bad",
+    "description": "waste for money",
+    "userName": "anny",
+    "postingDate": "3-1-22"
+}
+
+{
+	
+     "issueId": 3,
+    "title": "bad",
+    "description": "not good",
+    "userName": "shivi",
+    "postingDate": "5-2-22"
+ }
+ 
+ {
+     "issueId": 4,
+    "title": "colour",
+    "description": "changed colour",
+    "userName": "vinu",
+    "postingDate": "4-8-22"
+}
+
+{
+     "issueId": 5,
+    "title": "machine",
+    "description": "not working",
+    "userName": "elly",
+    "postingDate": "3-6-22"
+}
+
+{
+     "issueId": 6,
+    "title": "computer",
+    "description": "creates sound",
+    "userName": "nanu",
+    "postingDate": "7-7-22"
+}
